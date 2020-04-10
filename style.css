@@ -171,8 +171,11 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
-  color: #ffffff;
+  background-image: url("img/contacts1.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  /*background-color: #00417d;
+  color: #ffffff;*/
 }
 
 .page-footer a {
